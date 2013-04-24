@@ -1,1 +1,6 @@
 E:\Git_CodeIn\leonardleonard\AspnetDemo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Git_CodeIn\leonardleonard\AspnetDemo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Git_CodeIn\leonardleonard\AspnetDemo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Git_CodeIn\leonardleonard\AspnetDemo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Git_CodeIn\leonardleonard\AspnetDemo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Git_CodeIn\leonardleonard\AspnetDemo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
