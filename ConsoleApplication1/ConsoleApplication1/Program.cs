@@ -10,7 +10,23 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            TestExcept();
         }
+
+        public static void TestExcept()
+        {
+
+            int[] oldTag = new int[] { 1, 2, 3, 4 };
+            int[] newTag = new int[] { 1, 2, 5 };
+
+            var notExistsTags = oldTag.Except(newTag);
+
+            foreach (var item in notExistsTags)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+
     }
 }
