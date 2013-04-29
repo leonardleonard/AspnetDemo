@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ConsoleApplication1
@@ -10,8 +12,20 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            TestExcept();
+            //TestExcept();
             //TestListint();
+
+            CreateProcess();
+        }
+
+        /// <summary>
+        /// 创建process
+        /// </summary>
+        public static void CreateProcess()
+        {
+            Process process = Process.Start("notepad.exe", "hello.txt");
+            Thread.Sleep(1000);
+            process.Kill();
         }
 
         public static void TestListint()
