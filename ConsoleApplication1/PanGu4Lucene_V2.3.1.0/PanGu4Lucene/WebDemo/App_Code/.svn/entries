@@ -1,0 +1,52 @@
+8
+
+dir
+58629
+https://pangusegment.svn.codeplex.com/svn/PanGu4Lucene/WebDemo/App_Code
+https://pangusegment.svn.codeplex.com/svn
+
+
+
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+
+svn:special svn:externals svn:needs-lock
+
+News.cs
+file
+
+
+
+
+2009-08-13T05:48:19.062500Z
+049ce59192776a9e5ab2376305cbce97
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+SearchPage.cs
+file
+
+
+
+
+2009-08-13T04:57:57.125000Z
+a7a2a51f1c587795195f4333cae6ad64
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+Index.cs
+file
+
+
+
+
+2010-05-12T02:06:43.109375Z
+2180dc94de7aa5134056829aa391b798
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+

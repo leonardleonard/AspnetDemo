@@ -1,0 +1,116 @@
+8
+
+dir
+58629
+https://pangusegment.svn.codeplex.com/svn/PanGu4Lucene/PanGu.Lucene.ImportTool
+https://pangusegment.svn.codeplex.com/svn
+
+
+
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+
+svn:special svn:externals svn:needs-lock
+
+News.cs
+file
+
+
+
+
+2009-08-13T01:43:48.734375Z
+464c00d66b8b3e415b5c872140761a7b
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+FormImport.Designer.cs
+file
+
+
+
+
+2009-08-13T04:49:12.906250Z
+0e7d2742aee87c664114692d87a77ea5
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+FormImport.cs
+file
+
+
+
+
+2009-08-13T04:52:53.796875Z
+297bd61079921fcf8d6a30df04dae206
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+PanGu.Lucene.ImportTool.csproj
+file
+
+
+
+
+2009-08-18T01:46:00.562500Z
+90c4002a6a29b943c4043087451f05ca
+2009-12-18T06:08:54.666096Z
+52498
+unknown
+
+Index.cs
+file
+
+
+
+
+2009-08-13T02:07:36.015625Z
+e759ca201d370ef79cce5585ebc40a89
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+Program.cs
+file
+
+
+
+
+2009-08-13T00:56:33.390625Z
+37419693f0937f599e15b21917b9377c
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+Properties
+dir
+
+FormImport.resx
+file
+
+
+
+
+2009-08-13T04:49:12.984375Z
+63d9418011a6dde67fa09958e6a3a33b
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+tasma.ico
+file
+
+
+
+
+2006-05-06T17:58:14.000000Z
+a1aed800f55821bb7bd8d1d7b83da012
+2009-08-13T06:49:11.067739Z
+39721
+unknown
+has-props
+
