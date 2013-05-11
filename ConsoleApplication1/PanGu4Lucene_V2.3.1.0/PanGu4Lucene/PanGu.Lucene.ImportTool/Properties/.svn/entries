@@ -1,0 +1,76 @@
+8
+
+dir
+58629
+https://pangusegment.svn.codeplex.com/svn/PanGu4Lucene/PanGu.Lucene.ImportTool/Properties
+https://pangusegment.svn.codeplex.com/svn
+
+
+
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+
+svn:special svn:externals svn:needs-lock
+
+AssemblyInfo.cs
+file
+
+
+
+
+2009-08-13T00:53:04.390625Z
+ed0777ff550c6265a8167e6d5f11e2a4
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+Settings.settings
+file
+
+
+
+
+2009-08-13T00:52:47.390625Z
+8c0f00d7d9b0046695a0255f1b11b061
+2009-08-13T06:49:11.067739Z
+39721
+unknown
+
+Settings.Designer.cs
+file
+
+
+
+
+2009-08-13T00:52:47.640625Z
+da2b111d24efe3e8ea5d7a978e81d607
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+Resources.resx
+file
+
+
+
+
+2009-08-13T00:52:47.375000Z
+0cd8c971317d19bbed44757809bcb92b
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+
+Resources.Designer.cs
+file
+
+
+
+
+2009-08-13T00:52:47.593750Z
+a4e73ec96932e011270befc94ce96d94
+2009-08-13T06:46:35.400845Z
+39720
+unknown
+

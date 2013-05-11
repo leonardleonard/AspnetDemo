@@ -1,0 +1,9 @@
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\bin\TestLuceneS.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\bin\TestLuceneS.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\bin\Lucene.Net.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\bin\PanGu.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\bin\PanGu.HighLight.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\bin\PanGu.Lucene.Analyzer.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\obj\Debug\TestLuceneS.csprojResolveAssemblyReference.cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\obj\Debug\TestLuceneS.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\TestLuceneS\obj\Debug\TestLuceneS.pdb

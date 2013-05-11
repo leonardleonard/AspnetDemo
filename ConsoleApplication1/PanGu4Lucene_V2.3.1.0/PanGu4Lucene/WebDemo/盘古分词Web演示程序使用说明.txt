@@ -1,0 +1,5 @@
+1. 下载 News.xml 下载地址 
+http://pangusegment.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31482
+2. 进入目录 Bin,并运行 PanGu.Lucene.ImportTool.exe 点击创建索引按钮，并导入news.xml
+3. 运行网站
+

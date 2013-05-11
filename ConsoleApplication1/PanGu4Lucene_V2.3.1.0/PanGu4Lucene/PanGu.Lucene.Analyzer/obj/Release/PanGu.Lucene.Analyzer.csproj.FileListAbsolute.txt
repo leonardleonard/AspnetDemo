@@ -1,0 +1,10 @@
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\Release\PanGu.Lucene.Analyzer.dll
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\Release\PanGu.Lucene.Analyzer.pdb
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Release\ResolveAssemblyReference.cache
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.dll
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.pdb
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\Release\PanGu.Lucene.Analyzer.dll
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\Release\PanGu.Lucene.Analyzer.pdb
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.dll
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Release\PanGu.Lucene.Analyzer.pdb

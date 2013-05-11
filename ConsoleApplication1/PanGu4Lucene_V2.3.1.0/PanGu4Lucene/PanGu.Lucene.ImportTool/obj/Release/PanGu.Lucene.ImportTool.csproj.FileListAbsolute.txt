@@ -1,0 +1,16 @@
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\WebDemo\Bin\PanGu.Lucene.ImportTool.exe
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\WebDemo\Bin\PanGu.Lucene.ImportTool.pdb
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\ResolveAssemblyReference.cache
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.FormImport.resources
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.Properties.Resources.resources
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.csproj.GenerateResource.Cache
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.exe
+C:\ApolloWorkFolder\test\laboratory\Opensource\PanGu\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.pdb
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\WebDemo\Bin\PanGu.Lucene.ImportTool.exe
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\WebDemo\Bin\PanGu.Lucene.ImportTool.pdb
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.FormImport.resources
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.exe
+C:\Users\Administrator\Desktop\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Release\PanGu.Lucene.ImportTool.pdb
