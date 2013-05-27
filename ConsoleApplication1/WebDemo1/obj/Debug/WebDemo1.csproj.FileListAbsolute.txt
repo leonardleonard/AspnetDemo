@@ -1,0 +1,5 @@
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WebDemo1\bin\WebDemo1.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WebDemo1\bin\WebDemo1.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WebDemo1\obj\Debug\WebDemo1.csprojResolveAssemblyReference.cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WebDemo1\obj\Debug\WebDemo1.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WebDemo1\obj\Debug\WebDemo1.pdb
