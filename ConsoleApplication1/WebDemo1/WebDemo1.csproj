@@ -57,10 +57,18 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DateDiff.aspx" />
     <Content Include="DemoUpload.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DateDiff.aspx.cs">
+      <DependentUpon>DateDiff.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DateDiff.aspx.designer.cs">
+      <DependentUpon>DateDiff.aspx</DependentUpon>
+    </Compile>
     <Compile Include="DemoUpload.aspx.cs">
       <DependentUpon>DemoUpload.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
