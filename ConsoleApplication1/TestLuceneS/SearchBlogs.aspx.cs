@@ -67,7 +67,7 @@ namespace TestLuceneS
             }
             query.SetSlop(100); //指定关键词相隔最大距离
             //TopScoreDocCollector盛放查询结果的容器
-            TopScoreDocCollector collector = TopScoreDocCollector.create(1000, true);
+            TopScoreDocCollector collector = TopScoreDocCollector.create(1000, true);   //1000表示最多结果条数
             searcher.Search(query, null, collector);//根据query查询条件进行查询，查询结果放入collector容器
             //TopDocs 指定0到GetTotalHits() 即所有查询结果中的文档
             ScoreDoc[] docs = collector.TopDocs(0, collector.GetTotalHits()).scoreDocs;

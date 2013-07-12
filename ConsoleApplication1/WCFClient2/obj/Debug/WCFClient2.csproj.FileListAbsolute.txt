@@ -1,0 +1,6 @@
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCFClient2\bin\Debug\WCFClient2.dll.config
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCFClient2\bin\Debug\WCFClient2.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCFClient2\bin\Debug\WCFClient2.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCFClient2\obj\Debug\WCFClient2.csprojResolveAssemblyReference.cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCFClient2\obj\Debug\WCFClient2.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCFClient2\obj\Debug\WCFClient2.pdb

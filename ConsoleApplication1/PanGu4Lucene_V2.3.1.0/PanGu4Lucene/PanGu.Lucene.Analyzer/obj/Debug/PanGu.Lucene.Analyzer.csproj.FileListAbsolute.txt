@@ -1,0 +1,5 @@
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\Debug\PanGu.Lucene.Analyzer.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.csprojResolveAssemblyReference.cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.Analyzer\obj\Debug\PanGu.Lucene.Analyzer.pdb

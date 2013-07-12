@@ -1,0 +1,8 @@
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\Debug\PanGu.Lucene.ImportTool.exe
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\Debug\PanGu.Lucene.ImportTool.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Debug\PanGu.Lucene.ImportTool.csprojResolveAssemblyReference.cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Debug\PanGu.Lucene.ImportTool.FormImport.resources
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Debug\PanGu.Lucene.ImportTool.Properties.Resources.resources
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Debug\PanGu.Lucene.ImportTool.csproj.GenerateResource.Cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Debug\PanGu.Lucene.ImportTool.exe
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\PanGu4Lucene_V2.3.1.0\PanGu4Lucene\PanGu.Lucene.ImportTool\obj\Debug\PanGu.Lucene.ImportTool.pdb

@@ -13,3 +13,6 @@ D:\git-code\leonard\ASPNetDemo\AspnetDemo\ConsoleApplication1\ConsoleApplication
 D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
