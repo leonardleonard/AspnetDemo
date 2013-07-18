@@ -1,0 +1,8 @@
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\bin\Debug\Wcf.ServiceHost2.exe.config
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\bin\Debug\Wcf.ServiceHost2.exe
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\bin\Debug\Wcf.ServiceHost2.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\bin\Debug\WCF.ServiceLib.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\bin\Debug\WCF.ServiceLib.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\obj\Debug\Wcf.ServiceHost2.csprojResolveAssemblyReference.cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\obj\Debug\Wcf.ServiceHost2.exe
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\Wcf.ServiceHost2\obj\Debug\Wcf.ServiceHost2.pdb

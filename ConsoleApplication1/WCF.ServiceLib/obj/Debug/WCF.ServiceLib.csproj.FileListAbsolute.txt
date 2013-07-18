@@ -1,0 +1,5 @@
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCF.ServiceLib\bin\Debug\WCF.ServiceLib.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCF.ServiceLib\bin\Debug\WCF.ServiceLib.pdb
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCF.ServiceLib\obj\Debug\WCF.ServiceLib.csprojResolveAssemblyReference.cache
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCF.ServiceLib\obj\Debug\WCF.ServiceLib.dll
+D:\我的资料库\GitHub\AspnetDemo\ConsoleApplication1\WCF.ServiceLib\obj\Debug\WCF.ServiceLib.pdb
