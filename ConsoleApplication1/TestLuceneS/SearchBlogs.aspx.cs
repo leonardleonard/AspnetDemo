@@ -7,6 +7,7 @@ using Lucene.Net.Documents;
 using Lucene.Net.Index;
 using Lucene.Net.Search;
 using Lucene.Net.Store;
+using Lucene.Net.Analysis.Standard;
 
 
 namespace TestLuceneS
@@ -17,6 +18,47 @@ namespace TestLuceneS
         {
 
         }
+
+
+        protected void btn_del_Click(object sender, EventArgs e)
+        {
+            string filename = @"C:\luceneTest"; //索引文档保存位置
+            FSDirectory directory = FSDirectory.Open(new DirectoryInfo(filename), new NativeFSLockFactory());
+
+            IndexWriter modifier = new IndexWriter(directory, new StandardAnalyzer(), false, IndexWriter.MaxFieldLength.LIMITED);
+
+            Term term = new Term("id", "1");
+            modifier.DeleteDocuments(term);//删除   
+            modifier.Close();
+            directory.Close(); 
+
+        }
+
+
+        protected void btn_update_Click(object sender, EventArgs e)
+        {
+            string filename = @"C:\luceneTest"; //索引文档保存位置
+            FSDirectory directory = FSDirectory.Open(new DirectoryInfo(filename), new NativeFSLockFactory());
+            bool isUpdate = IndexReader.IndexExists(directory); //是否存在索引库文件夹以及索引库特征文件
+            string id = "1";
+
+            bool enableCreate = isUpdate;//是否已经创建索引文件 
+            Term term = new Term("id", id);
+            Document doc = new Document();
+            doc = new Document();//创建文档，给文档添加字段，并把文档添加到索引书写器里 
+            doc.Add(new Field("id", id, Field.Store.YES, Field.Index.TOKENIZED));//存储且索引 
+            doc.Add(new Field("title", "wode", Field.Store.YES, Field.Index.TOKENIZED));
+            doc.Add(new Field("content", "bixu", Field.Store.YES, Field.Index.TOKENIZED));
+
+            IndexWriter writer = new IndexWriter(directory, new StandardAnalyzer(), IndexWriter.MaxFieldLength.LIMITED);
+            writer.UpdateDocument(term, doc);
+            writer.Optimize();
+            //writer.Commit(); 
+            writer.Close();
+            directory.Close(); 
+
+        }
+
 
         //创建索引事件  可以防止在用户点击查询事件前执行 去掉页面中的"创建索引"按钮
         protected void CreateView_Click(object sender, EventArgs e)

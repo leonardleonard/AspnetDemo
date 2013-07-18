@@ -49,6 +49,24 @@ namespace TestLuceneS {
         protected global::System.Web.UI.WebControls.Button CreateView;
         
         /// <summary>
+        /// btn_update 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_update;
+        
+        /// <summary>
+        /// btn_del 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_del;
+        
+        /// <summary>
         /// Repeater1 控件。
         /// </summary>
         /// <remarks>

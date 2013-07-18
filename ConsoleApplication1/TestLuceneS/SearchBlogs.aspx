@@ -13,6 +13,9 @@
     <asp:TextBox ID ="txtSerach" runat ="server" Width ="494px" />
     <asp:Button ID ="btnSearch" runat ="server" onclick ="btnSearch_Click" Text ="搜索" />
     <asp:Button ID ="CreateView" runat ="server" onclick ="CreateView_Click" Text ="创建索引" />
+
+        <asp:Button ID ="btn_update" runat ="server" onclick ="btn_update_Click" Text ="更新索引" />
+        <asp:Button ID ="btn_del" runat ="server" onclick ="btn_del_Click" Text ="删除索引" />
     <div>
         <asp:Repeater ID ="Repeater1" runat ="server">
         <ItemTemplate>
